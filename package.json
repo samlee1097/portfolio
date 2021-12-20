@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "16.15.0"
+    "node": "6.11.1"
   },
   "scripts": {
     "compile:scss": "node-sass sass/main.scss css/style.css -w",
