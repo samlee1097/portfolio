@@ -693,8 +693,8 @@ textarea {
       z-index: -5;
       right: 0;
       bottom: 0;
-      object-fit: fill;
-      position: fixed;
+      object-fit: cover;
+      position: absolute;
       min-width: 100%;
       min-height: 100%;
     }
