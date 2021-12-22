@@ -690,6 +690,7 @@ textarea {
     top: 27px; } }
 
 #myVideo {
+      z-index: 1001;
       opacity: 0.3;
       right: 0;
       bottom: 0;
